@@ -1,7 +1,8 @@
 ![Alt text](Scribe/scribe_banner.png)
 # Jump to:-
 [FACT](#fact)
-It is a **It is a streamlit based markdown editor** built for absolute focus and quick exports
+
+It is a **It is a streamlit based markdown editor** built for absolute focus and quick exports 🔥🔥
 > Zero hassle
 
 Why you might like it:-
