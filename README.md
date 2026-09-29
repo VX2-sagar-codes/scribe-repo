@@ -1,4 +1,5 @@
 ![Alt text](Scribe/scribe_banner.png)
+[![Visit](https://img.shields.io/badge/Visit-NOW-green?style=for-the-badge&logo=Streamlit)](https://vpqdksqbbapbghus5gb2nt.streamlit.app/)
 # Jump to:-
 [FACT](#fact)
 
